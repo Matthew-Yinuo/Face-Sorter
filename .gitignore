@@ -1,6 +1,7 @@
 **/*.pyc
-tf_files
 .idea/
+.kent/
+.chance/
 **/*~
 gradle*
 libs/
