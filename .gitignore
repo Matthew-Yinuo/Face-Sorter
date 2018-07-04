@@ -1,0 +1,11 @@
+**/*.pyc
+.idea/
+.kent/
+.chance/
+**/*~
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/*
