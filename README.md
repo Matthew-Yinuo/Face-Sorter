@@ -1,4 +1,4 @@
-###Facial Image Classifacation 
+#Facial Image Classifacation 
 
 ## (A)The ML technology used in this classifier 
     The base of this classifier is the Inception v3 model. Inception is a deep convolutional neural network(CNN), 
