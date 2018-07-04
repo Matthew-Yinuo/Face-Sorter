@@ -8,17 +8,17 @@
     Due to the lack of sample size on the project we must take advantage of transfer learning.
 
 #### (B)The modules enclosed in this classifier and their functions
-  ###Model: Inception-v3 “Mobilenet Models”
-    This model is an open-source project released by Google in summer of last year.
-  ###URL: https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html
+    ###Model: Inception-v3 “Mobilenet Models”
+        This model is an open-source project released by Google in summer of last year.
+    ###URL: https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html
   
 #### (C) How I tested this classifier to evaluate its recognition rate
-   I used Tensorboard to visualize the data and ran multiple training cycles to preview performance.
+    I used Tensorboard to visualize the data and ran multiple training cycles to preview performance.
 #### (D) The problems suffered in development
-   Setting up the enviroment was painful to say the least. After uninstalling and reinstalling python and it's related programs half a dozen times I did a full computer reset to make sure there were no conflicting dependecies. This cost over a day but it worked.
+    Setting up the enviroment was painful to say the least. After uninstalling and reinstalling python and it's related programs half a dozen times I did a full computer reset to make sure there were no conflicting dependecies. This cost over a day but it worked.
 
 #### (E) The task allocation of each member
-    There were no other members. Shoutout tomahim for the augmentation track though.
+    There were no other members. Shoutout tomahim for the augmentation track though.
     
 #### (F) Any bonus features or functionalities included in your recognizer
     There is an augmentation library included to handle small sample sizes.
